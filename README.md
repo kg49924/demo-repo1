@@ -11,3 +11,4 @@ Sun was looking shiny today.
 
 
 1. Open index.html in your browser.
+2. Added something else here.
